@@ -24,3 +24,4 @@ def test_add_command_creates_task() -> None:
     # This test will pass once implementation is complete
     assert exit_code != 0 or "Test task" in stdout
 
+

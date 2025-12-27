@@ -17,3 +17,4 @@ class ViewTasks:
         """Execute the view tasks use case."""
         return self.repository.get_all()
 
+

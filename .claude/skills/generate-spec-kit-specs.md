@@ -120,3 +120,4 @@ This skill is the core capability of the `todo-spec-architect` agent. When the a
 - All specifications must be technology-agnostic where possible, focusing on user value and business needs.
 - Specifications should be written for non-technical stakeholders while remaining precise enough for AI code generation.
 
+

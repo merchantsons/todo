@@ -41,3 +41,4 @@ def test_add_task_validates_whitespace_only_description() -> None:
 
     assert "cannot be empty" in str(exc_info.value).lower()
 
+

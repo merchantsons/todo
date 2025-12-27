@@ -42,3 +42,4 @@ def test_complete_task_raises_error_for_nonexistent_task() -> None:
     with pytest.raises(TaskNotFoundError):
         use_case.execute(999)
 
+

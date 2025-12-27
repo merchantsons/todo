@@ -43,3 +43,4 @@ def test_update_task_validates_empty_description() -> None:
 
     assert "cannot be empty" in str(exc_info.value).lower()
 
+

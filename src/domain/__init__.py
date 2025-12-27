@@ -1,2 +1,3 @@
 """Domain layer - core business entities."""
 
+
