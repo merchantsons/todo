@@ -1,0 +1,2 @@
+"""Interfaces layer - abstract contracts."""
+
