@@ -1,4 +1,6 @@
 # Todo In-Memory Python Console App
+* For GIAIC Hackathon Phase I </br>
+* Roll # 00037391
 
 A simple, in-memory todo list application built with Python 3.13+ following clean architecture principles and Spec-Driven Development.
 
